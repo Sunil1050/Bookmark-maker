@@ -1,0 +1,43 @@
+.bg-container {
+    background-color: #2d3a8c;
+    padding-top: 40px;
+    font-family: Roboto;
+}
+
+.text-container {
+    line-height: 3px;
+}
+
+.heading {
+    color: #ffffff;
+    font-size: 24px;
+}
+
+.container1 {
+    border-top-left-radius: 24px;
+    border-top-right-radius: 24px;
+    padding: 20px;
+    background-color: #ffffff;
+}
+
+.container1-head {
+    color: black;
+    font-size: 26px;
+    text-align: center;
+}
+
+.container1-child {
+    background-color: #f5f7fa;
+    padding: 26px;
+    border-radius: 24px;
+    margin-top: 12px;
+    margin-bottom: 12px;
+}
+
+.container2-child {
+    background-color: #f5f7fa;
+    padding: 14px;
+    border-radius: 24px;
+    margin-top: 12px;
+    margin-bottom: 12px;
+}
